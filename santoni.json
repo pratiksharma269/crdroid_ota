@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Omansh Krishn",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Redmi 4X",
+			"filename": "crDroidAndroid-11.0-20240430-santoni-v7.39.zip",
+			"download": "https://github.com/omansh-krishn/crdroidreleases/releases/download/11-v7.39-240430/crDroidAndroid-11.0-20240430-santoni-v7.39.zip",
+			"timestamp": 1714495739,
+			"md5": "f4a10f16715145549d1c29d91222c832",
+			"sha256": "bc84255ce105b51fa443606b3550ceed29c26eaed2aff52b857a4122669ac7cc",
+			"size": 784524433,
+			"version": "7.39",
+			"buildtype": "monthly",
+			"forum": "",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-R",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/omansh_krishn",
+			"dt": "https://gitlab.com/androidsantoni/device/device_xiaomi_santoni",
+			"common-dt": "",
+			"kernel": "https://gitlab.com/androidsantoni/kernel/kernel_xiaomi_msm8937"
+		}
+	]
+}
